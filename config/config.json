@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xa03aF9B77542E0749a5e73338EeF28374785Ab1b",
+  "SCAN_LINK": "https://polygonscan.com/token/0xa03aF9B77542E0749a5e73338EeF28374785Ab1b",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Pandas Universe",
+  "SYMBOL": "PANDA",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 200000000000000000,
+  "DISPLAY_COST": 0.2,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/pandasuniverse",
+  "SHOW_BACKGROUND": true
+}
